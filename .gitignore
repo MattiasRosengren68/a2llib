@@ -32,3 +32,7 @@ odsconfigurator/model/*_?.xml
 # Visual Studio
 /.vs/
 CMakeSettings.json
+
+# Visual Studio code
+.vscode/
+build/
